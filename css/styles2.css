@@ -12,10 +12,6 @@ body {
   background-color: #000000e4;
   background-size:cover;
 }
-header{
-  position: relative;
-  top: 50px;
-}
 .topspace {
   margin-top: 40px;
 }
@@ -68,6 +64,10 @@ header{
   margin: 5px 0 0;
   top: -50px;
   position: relative;
+}
+header{
+  position: relative;
+  top: 50px;
 }
 #rol{
   color: #6998AB;
